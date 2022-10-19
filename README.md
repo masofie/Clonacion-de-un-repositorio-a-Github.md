@@ -40,3 +40,5 @@ Luego hacemos un **`cat REAME.md`** y con eso podemos ver lo qye hay en el archi
 Como podemos ver ahí esta clonado correctamente .
 
 ![3.png](./img/3.png)
+
+# Configuración de los Parametros Globales 
