@@ -50,3 +50,7 @@ desbes utilizar el comando **`ls -la`** y te mostrara los ficheros ocultos ·
 Aqui lo podmeos ver aqui tenemos la imagen de nuestro fichero de coonfiguración 
 
 ![4.png](./img/4.png)
+
+Y también nos abre el fichero porque le dijimos que utilice el Visual Studio Code **(code)**
+
+![5.png](./img/5.png)
