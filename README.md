@@ -28,3 +28,7 @@ Después ejecutamos el siguiente comando para clonar nuestro repositorio de Gith
 **`git clone "enlace copiado anteriormente"`**
 
 ![1.png](./img/1.png)
+
+## Clonación creada 
+
+Como podemos ver se ha clonado correctamente el repositorio . Para eso utilizamos los siguientes comandos .
