@@ -15,8 +15,16 @@ Lo primero que hay que hacer es posicionarmos en nuestra carpeta de Github . Y c
 
 **`mkdir "nombre de la carpeta"`**
 
-#### Comando para la clonación 
+#### Copiar enlace en Github 
 
 Para la clonacion lo primero que hay que hacer es ir a nuestro repositorio en Github y copiamos nuestro enlace .
 
 ![2.png](./img/2.png)
+
+#### Comando para la clonacion 
+
+Después ejecutamos el siguiente comando para clonar nuestro repositorio de Github
+
+**`git clone "enlace copiado anteriormente"`**
+
+![1.png](./img/1.png)
