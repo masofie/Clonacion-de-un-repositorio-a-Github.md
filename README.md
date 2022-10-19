@@ -32,3 +32,6 @@ Después ejecutamos el siguiente comando para clonar nuestro repositorio de Gith
 ## Clonación creada 
 
 Como podemos ver se ha clonado correctamente el repositorio . Para eso utilizamos los siguientes comandos .
+
+Hacemos un **`ls`** ; para ver lo que hay en el directorio.
+Después nos vammos al repositorio con el comando **`cd "directorio"`**
