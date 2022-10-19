@@ -35,3 +35,6 @@ Como podemos ver se ha clonado correctamente el repositorio . Para eso utilizamo
 
 Hacemos un **`ls`** ; para ver lo que hay en el directorio.
 Después nos vammos al repositorio con el comando **`cd "directorio"`**
+Luego hacemos un **`cat REAME.md`** y con eso podemos ver lo qye hay en el archivo .
+
+Como podemos ver ahí esta clonado correctamente .
