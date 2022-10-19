@@ -42,3 +42,7 @@ Como podemos ver ahí esta clonado correctamente .
 ![3.png](./img/3.png)
 
 # Configuración de los Parametros Globales 
+
+Para hacer esto hay que ir a la carpeta de configuración de Git , y vamos a utilizar el terminal .
+Y ejecutamos el comando **`code .gitconfig`** , este fichero esta oculto y por eso empieza por un punto . Si lo quieres buscar 
+desbes utilizar el comando **`ls -la`** y te mostrara los ficheros ocultos ·
