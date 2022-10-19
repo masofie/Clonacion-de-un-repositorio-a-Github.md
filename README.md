@@ -5,6 +5,6 @@ en cualquien lugar donde estemos .
 
 Osea trabajar desde otro lugar , donde originalmente no se ha hecho el trabajo .Si quieres saber mas sobre la clonacion puedes consultar al siguiente enlace : 
 
-**Enlace** : 
+**Enlace** : (**https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository**)
 
 ## Pasos a seguir para la Clonación 
