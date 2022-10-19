@@ -38,3 +38,5 @@ Después nos vammos al repositorio con el comando **`cd "directorio"`**
 Luego hacemos un **`cat REAME.md`** y con eso podemos ver lo qye hay en el archivo .
 
 Como podemos ver ahí esta clonado correctamente .
+
+![3.png](./img/3.png)
