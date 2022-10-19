@@ -8,3 +8,7 @@ Osea trabajar desde otro lugar , donde originalmente no se ha hecho el trabajo .
 **Enlace** : (**https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository**)
 
 ## Pasos a seguir para la Clonación 
+
+### Posicionamiento 
+
+Lo primero que hay que hacer es posicionarmos en nuestra carpeta de Github 
