@@ -3,6 +3,9 @@
 Lo primero que hay que saber es que la clonación la vamos a utilizar para poder acceder a nuestro repositorio 
 en cualquien lugar donde estemos .
 
+![6.png](./img/6.png)
+
+
 Osea trabajar desde otro lugar , donde originalmente no se ha hecho el trabajo .Si quieres saber mas sobre la clonacion puedes consultar al siguiente enlace : 
 
 **Enlace** : (**https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository**)
