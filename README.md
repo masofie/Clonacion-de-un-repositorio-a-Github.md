@@ -11,4 +11,8 @@ Osea trabajar desde otro lugar , donde originalmente no se ha hecho el trabajo .
 
 ### Posicionamiento 
 
-Lo primero que hay que hacer es posicionarmos en nuestra carpeta de Github 
+Lo primero que hay que hacer es posicionarmos en nuestra carpeta de Github . Y creamos un directorio con el nombre que quireas .
+
+**`mkdir "nombre de la carpeta"`**
+
+Y 
