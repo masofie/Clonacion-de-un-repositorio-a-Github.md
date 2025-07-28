@@ -1,6 +1,7 @@
 # 📥 Clonación de un Repositorio en ``GitHub``
 <br>
 
+**📑 Indice**
 - [📥 Clonación de un Repositorio en ``GitHub``](#-clonación-de-un-repositorio-en-github)
   - [🛠️ 1. Pasos a seguir para la Clonación](#️-1-pasos-a-seguir-para-la-clonación)
     - [📁 1.1 Posicionamiento y crear directorio](#-11-posicionamiento-y-crear-directorio)
