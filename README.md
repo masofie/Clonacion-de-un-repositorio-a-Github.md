@@ -1,7 +1,7 @@
-# 📥 Clonación de un Repositorio en GitHub
+# 📥 Clonación de un Repositorio en ``GitHub``
 <br>
 
-- [📥 Clonación de un Repositorio en GitHub](#-clonación-de-un-repositorio-en-github)
+- [📥 Clonación de un Repositorio en ``GitHub``](#-clonación-de-un-repositorio-en-github)
   - [🛠️ 1. Pasos a seguir para la Clonación](#️-1-pasos-a-seguir-para-la-clonación)
     - [📁 1.1 Posicionamiento y crear directorio](#-11-posicionamiento-y-crear-directorio)
     - [🔗 1.2 Copiar el enlace del repositorio](#-12-copiar-el-enlace-del-repositorio)
@@ -12,14 +12,14 @@
 <br>
 
 
-Lo primero que debemos saber es que la clonación nos permite acceder a nuestro repositorio de GitHub desde cualquier lugar , no solo desde el equipo donde lo creamos originalmente.
+Lo primero que debemos saber es que la clonación nos permite acceder a nuestro repositorio de **GitHub** desde cualquier lugar , no solo desde el equipo donde lo creamos originalmente.
 
 🧳 Esto es útil para trabajar en distintos ordenadores o compartir tu código fácilmente.
 
 ![6.png](./img/6.png)
 <br>
 
-🔎 Si quieres saber más sobre la clonación de repositorios en GitHub, consulta el siguiente enlace :
+🔎 Si quieres saber más sobre la clonación de repositorios en **GitHub** , consulta el siguiente enlace :
 
 [👉 Documentación oficial - Clonar un repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
 
