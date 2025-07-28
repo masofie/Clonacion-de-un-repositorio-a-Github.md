@@ -12,7 +12,7 @@
 <br>
 
 
-Lo primero que debemos saber es que la clonación nos permite acceder a nuestro repositorio de GitHub desde cualquier lugar, no solo desde el equipo donde lo creamos originalmente.
+Lo primero que debemos saber es que la clonación nos permite acceder a nuestro repositorio de GitHub desde cualquier lugar , no solo desde el equipo donde lo creamos originalmente.
 
 🧳 Esto es útil para trabajar en distintos ordenadores o compartir tu código fácilmente.
 
@@ -32,7 +32,7 @@ Lo primero que debemos saber es que la clonación nos permite acceder a nuestro 
 ### 📁 1.1 Posicionamiento y crear directorio
 <br>
 
-Primero, nos posicionamos en nuestra carpeta donde gestionamos los proyectos de GitHub y creamos un nuevo directorio :
+Primero , nos posicionamos en nuestra carpeta donde gestionamos los proyectos de **GitHub** y creamos un nuevo directorio :
 
 ~~~~
 mkdir "nombre-de-la-carpeta"
@@ -44,7 +44,7 @@ mkdir "nombre-de-la-carpeta"
 ### 🔗 1.2 Copiar el enlace del repositorio
 <br>
 
-Vamos a **GitHub** , entramos en el repositorio que queremos clonar y copiamos el enlace (botón verde Code → HTTPS o SSH).
+Vamos a **GitHub** , entramos en el repositorio que queremos clonar y copiamos el enlace (botón verde Code → ``HTTPS`` o ``SSH``).
 
 ![2.png](./img/2.png)
 <br><br>
@@ -53,7 +53,7 @@ Vamos a **GitHub** , entramos en el repositorio que queremos clonar y copiamos e
 ### 🧬 1.3 Comando para clonar el repositorio
 <br>
 
-Luego, ejecutamos el comando :
+Luego , ejecutamos el comando :
 
 ~~~~
 git clone "enlace-copiado-anteriormente"
@@ -83,10 +83,12 @@ cat README.md       # Mostramos el contenido del README
 ## ⚙️ Configuración de los Parámetros Globales en Git
 <br>
 
-Git guarda configuraciones globales en un archivo oculto llamado .gitconfig.
+Git guarda configuraciones globales en un archivo oculto llamado ``.gitconfig`` .
 
 
 1 - 🧭 Abrir archivo de configuración : 
+<br>
+
 
   - Nos dirigimos a nuestra carpeta personal (home).
 
@@ -98,7 +100,7 @@ code .gitconfig
 ~~~~
 <br><br>
 
-2 - 📌 Si no ves el archivo, puedes listarlo junto con los ocultos usando :
+2 - 📌 Si no ves el archivo , puedes listarlo junto con los ocultos usando :
 
 ~~~~
 ls -la
@@ -108,9 +110,18 @@ ls -la
 <br><br>
 
 
-3 - 📝 Archivo .gitconfig en Visual Studio Code
+3 - 📝 Archivo ``.gitconfig`` en Visual Studio Code
 
-Este comando abrirá el archivo de configuración global de Git directamente en VS Code. Ahí podrás modificar parámetros como tu nombre de usuario o correo asociado.
+Este comando abrirá el archivo de configuración global de Git directamente en ``VS Code`` . Ahí podrás modificar parámetros como tu nombre de usuario o correo asociado.
+
+~~~~
+[user]
+    name = nombre_usuario
+    email = user@ejemplo.com
+[init]
+    defaultBranch = main
+    defaultBranch = main
+~~~~
 
 
 ![5.png](./img/5.png)
